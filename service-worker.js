@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/messpa/precache-manifest.6f1b4cb85e222e17de1fd37885a5172f.js"
+  "/messpa/precache-manifest.c4db30e84c8ca78d879d6c2833c034d2.js"
 );
 
 self.addEventListener('message', (event) => {
