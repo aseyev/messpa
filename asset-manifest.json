@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/messpa/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/messpa/static/js/main.bdb44554.chunk.js",
-    "main.js.map": "/messpa/static/js/main.bdb44554.chunk.js.map",
+    "main.js": "/messpa/static/js/main.70c254db.chunk.js",
+    "main.js.map": "/messpa/static/js/main.70c254db.chunk.js.map",
     "runtime-main.js": "/messpa/static/js/runtime-main.795f3f8e.js",
     "runtime-main.js.map": "/messpa/static/js/runtime-main.795f3f8e.js.map",
-    "static/js/2.72c83159.chunk.js": "/messpa/static/js/2.72c83159.chunk.js",
-    "static/js/2.72c83159.chunk.js.map": "/messpa/static/js/2.72c83159.chunk.js.map",
+    "static/js/2.1a6ed6ab.chunk.js": "/messpa/static/js/2.1a6ed6ab.chunk.js",
+    "static/js/2.1a6ed6ab.chunk.js.map": "/messpa/static/js/2.1a6ed6ab.chunk.js.map",
     "index.html": "/messpa/index.html",
-    "precache-manifest.5a2bc13ef2387b276025b501e68336ec.js": "/messpa/precache-manifest.5a2bc13ef2387b276025b501e68336ec.js",
+    "precache-manifest.789b927354becbbf1e71040d0aea3f86.js": "/messpa/precache-manifest.789b927354becbbf1e71040d0aea3f86.js",
     "service-worker.js": "/messpa/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/messpa/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.72c83159.chunk.js.LICENSE.txt": "/messpa/static/js/2.72c83159.chunk.js.LICENSE.txt"
+    "static/js/2.1a6ed6ab.chunk.js.LICENSE.txt": "/messpa/static/js/2.1a6ed6ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.795f3f8e.js",
-    "static/js/2.72c83159.chunk.js",
+    "static/js/2.1a6ed6ab.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.bdb44554.chunk.js"
+    "static/js/main.70c254db.chunk.js"
   ]
 }
