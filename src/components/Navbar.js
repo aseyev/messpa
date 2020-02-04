@@ -7,20 +7,20 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
     return (
         <nav>
-            <div className="nav-wrapper red darken-3">
+            <div className="nav-wrapper indigo darken-4">
                 <div className="container">
-                    <a href="/" className="brand-logo left">
+                    <a href="/messpa/" className="brand-logo left">
                         MesSPA
                     </a>
                     <ul className="right hide-on-med-and-down">
                         <li>
-                            <NavLink to="/">Home</NavLink>
+                            <NavLink to="/messpa/">Home</NavLink>
                         </li>
                         <li>
-                            <NavLink to="/contact">Contact</NavLink>
+                            <NavLink to="/messpa/contact">Contact</NavLink>
                         </li>
                         <li>
-                            <NavLink to="/about">About</NavLink>
+                            <NavLink to="/messpa/about">About</NavLink>
                         </li>
                     </ul>
                 </div>
