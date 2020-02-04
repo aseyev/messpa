@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84c777d5111e87477a9f60fa15b27dde",
+    "revision": "2d6da399d1e4d6b1621bb6e5f443f26c",
     "url": "/messpa/index.html"
   },
   {
-    "revision": "44ed515097ab6caf9661",
+    "revision": "62f95a6c2987598efd87",
     "url": "/messpa/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/messpa/static/js/2.72c83159.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44ed515097ab6caf9661",
-    "url": "/messpa/static/js/main.791f095c.chunk.js"
+    "revision": "62f95a6c2987598efd87",
+    "url": "/messpa/static/js/main.bdb44554.chunk.js"
   },
   {
     "revision": "b08e4f2a8a6d02c24fd9",
